@@ -238,12 +238,30 @@
 |  |
 | ------- |
 | [1006-vowel-spellchecker](https://github.com/Naman230804/leetcode/tree/master/1006-vowel-spellchecker) |
+| [3827-implement-router](https://github.com/Naman230804/leetcode/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
 | [1006-vowel-spellchecker](https://github.com/Naman230804/leetcode/tree/master/1006-vowel-spellchecker) |
+| [3827-implement-router](https://github.com/Naman230804/leetcode/tree/master/3827-implement-router) |
 ## String
 |  |
 | ------- |
 | [1006-vowel-spellchecker](https://github.com/Naman230804/leetcode/tree/master/1006-vowel-spellchecker) |
+## Binary Search
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/Naman230804/leetcode/tree/master/3827-implement-router) |
+## Design
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/Naman230804/leetcode/tree/master/3827-implement-router) |
+## Queue
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/Naman230804/leetcode/tree/master/3827-implement-router) |
+## Ordered Set
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/Naman230804/leetcode/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
