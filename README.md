@@ -238,11 +238,13 @@
 |  |
 | ------- |
 | [1006-vowel-spellchecker](https://github.com/Naman230804/leetcode/tree/master/1006-vowel-spellchecker) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Naman230804/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3827-implement-router](https://github.com/Naman230804/leetcode/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
 | [1006-vowel-spellchecker](https://github.com/Naman230804/leetcode/tree/master/1006-vowel-spellchecker) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Naman230804/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3827-implement-router](https://github.com/Naman230804/leetcode/tree/master/3827-implement-router) |
 ## String
 |  |
@@ -264,4 +266,8 @@
 |  |
 | ------- |
 | [3827-implement-router](https://github.com/Naman230804/leetcode/tree/master/3827-implement-router) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Naman230804/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
