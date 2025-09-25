@@ -237,6 +237,7 @@
 ## Array
 |  |
 | ------- |
+| [0120-triangle](https://github.com/Naman230804/leetcode/tree/master/0120-triangle) |
 | [1006-vowel-spellchecker](https://github.com/Naman230804/leetcode/tree/master/1006-vowel-spellchecker) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Naman230804/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3827-implement-router](https://github.com/Naman230804/leetcode/tree/master/3827-implement-router) |
@@ -270,4 +271,8 @@
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Naman230804/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/Naman230804/leetcode/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
