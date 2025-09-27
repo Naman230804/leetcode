@@ -239,6 +239,7 @@
 | ------- |
 | [0120-triangle](https://github.com/Naman230804/leetcode/tree/master/0120-triangle) |
 | [0611-valid-triangle-number](https://github.com/Naman230804/leetcode/tree/master/0611-valid-triangle-number) |
+| [0830-largest-triangle-area](https://github.com/Naman230804/leetcode/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/Naman230804/leetcode/tree/master/1006-vowel-spellchecker) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Naman230804/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3827-implement-router](https://github.com/Naman230804/leetcode/tree/master/3827-implement-router) |
@@ -289,4 +290,12 @@
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Naman230804/leetcode/tree/master/0611-valid-triangle-number) |
+## Math
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Naman230804/leetcode/tree/master/0830-largest-triangle-area) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Naman230804/leetcode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
