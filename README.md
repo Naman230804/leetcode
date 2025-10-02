@@ -297,6 +297,7 @@
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Naman230804/leetcode/tree/master/0830-largest-triangle-area) |
 | [1642-water-bottles](https://github.com/Naman230804/leetcode/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/Naman230804/leetcode/tree/master/3336-water-bottles-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -305,4 +306,5 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Naman230804/leetcode/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/Naman230804/leetcode/tree/master/3336-water-bottles-ii) |
 <!---LeetCode Topics End-->
