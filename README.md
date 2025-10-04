@@ -239,6 +239,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Naman230804/leetcode/tree/master/0011-container-with-most-water) |
 | [0120-triangle](https://github.com/Naman230804/leetcode/tree/master/0120-triangle) |
+| [0407-trapping-rain-water-ii](https://github.com/Naman230804/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0611-valid-triangle-number](https://github.com/Naman230804/leetcode/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/Naman230804/leetcode/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/Naman230804/leetcode/tree/master/1006-vowel-spellchecker) |
@@ -310,4 +311,16 @@
 | ------- |
 | [1642-water-bottles](https://github.com/Naman230804/leetcode/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/Naman230804/leetcode/tree/master/3336-water-bottles-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Naman230804/leetcode/tree/master/0407-trapping-rain-water-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Naman230804/leetcode/tree/master/0407-trapping-rain-water-ii) |
+## Matrix
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Naman230804/leetcode/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
