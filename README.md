@@ -239,6 +239,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Naman230804/leetcode/tree/master/0011-container-with-most-water) |
 | [0120-triangle](https://github.com/Naman230804/leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Naman230804/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0407-trapping-rain-water-ii](https://github.com/Naman230804/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Naman230804/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0611-valid-triangle-number](https://github.com/Naman230804/leetcode/tree/master/0611-valid-triangle-number) |
@@ -285,6 +286,7 @@
 |  |
 | ------- |
 | [0120-triangle](https://github.com/Naman230804/leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Naman230804/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Naman230804/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 ## Two Pointers
 |  |
