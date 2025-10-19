@@ -288,6 +288,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Naman230804/leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Naman230804/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naman230804/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Naman230804/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -309,6 +310,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Naman230804/leetcode/tree/master/0070-climbing-stairs) |
 | [0830-largest-triangle-area](https://github.com/Naman230804/leetcode/tree/master/0830-largest-triangle-area) |
 | [1642-water-bottles](https://github.com/Naman230804/leetcode/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/Naman230804/leetcode/tree/master/3336-water-bottles-ii) |
@@ -350,4 +352,8 @@
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Naman230804/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Naman230804/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
