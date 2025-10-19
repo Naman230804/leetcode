@@ -262,6 +262,7 @@
 |  |
 | ------- |
 | [1006-vowel-spellchecker](https://github.com/Naman230804/leetcode/tree/master/1006-vowel-spellchecker) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Naman230804/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -325,6 +326,7 @@
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Naman230804/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Naman230804/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Naman230804/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -339,8 +341,13 @@
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Naman230804/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Naman230804/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Naman230804/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Naman230804/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 <!---LeetCode Topics End-->
