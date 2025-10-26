@@ -242,6 +242,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naman230804/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Naman230804/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0407-trapping-rain-water-ii](https://github.com/Naman230804/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Naman230804/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Naman230804/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0611-valid-triangle-number](https://github.com/Naman230804/leetcode/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/Naman230804/leetcode/tree/master/0830-largest-triangle-area) |
@@ -291,6 +292,7 @@
 | [0070-climbing-stairs](https://github.com/Naman230804/leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Naman230804/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naman230804/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0416-partition-equal-subset-sum](https://github.com/Naman230804/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Naman230804/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 ## Two Pointers
 |  |
