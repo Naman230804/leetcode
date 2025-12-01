@@ -249,6 +249,7 @@
 | [1006-vowel-spellchecker](https://github.com/Naman230804/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Naman230804/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1612-avoid-flood-in-the-city](https://github.com/Naman230804/leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Naman230804/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Naman230804/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3827-implement-router](https://github.com/Naman230804/leetcode/tree/master/3827-implement-router) |
 ## Hash Table
@@ -269,6 +270,7 @@
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Naman230804/leetcode/tree/master/0611-valid-triangle-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/Naman230804/leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Naman230804/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3827-implement-router](https://github.com/Naman230804/leetcode/tree/master/3827-implement-router) |
 ## Design
 |  |
@@ -305,10 +307,12 @@
 | [0011-container-with-most-water](https://github.com/Naman230804/leetcode/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Naman230804/leetcode/tree/master/0611-valid-triangle-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/Naman230804/leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Naman230804/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Sorting
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Naman230804/leetcode/tree/master/0611-valid-triangle-number) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Naman230804/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Math
 |  |
 | ------- |
