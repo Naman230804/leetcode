@@ -266,6 +266,7 @@
 |  |
 | ------- |
 | [1006-vowel-spellchecker](https://github.com/Naman230804/leetcode/tree/master/1006-vowel-spellchecker) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Naman230804/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Naman230804/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Binary Search
 |  |
@@ -309,6 +310,7 @@
 | [0011-container-with-most-water](https://github.com/Naman230804/leetcode/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Naman230804/leetcode/tree/master/0611-valid-triangle-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/Naman230804/leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Naman230804/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Naman230804/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Sorting
 |  |
