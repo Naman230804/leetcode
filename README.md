@@ -266,6 +266,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Naman230804/leetcode/tree/master/0022-generate-parentheses) |
 | [1006-vowel-spellchecker](https://github.com/Naman230804/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Naman230804/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Naman230804/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -295,6 +296,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Naman230804/leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Naman230804/leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Naman230804/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naman230804/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -373,4 +375,8 @@
 |  |
 | ------- |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Naman230804/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Naman230804/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
