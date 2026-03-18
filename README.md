@@ -251,6 +251,7 @@
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Naman230804/leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1612-avoid-flood-in-the-city](https://github.com/Naman230804/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Naman230804/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Naman230804/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Naman230804/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3827-implement-router](https://github.com/Naman230804/leetcode/tree/master/3827-implement-router) |
 ## Hash Table
@@ -350,6 +351,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Naman230804/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Naman230804/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Naman230804/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Naman230804/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -367,4 +369,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Naman230804/leetcode/tree/master/0070-climbing-stairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Naman230804/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 <!---LeetCode Topics End-->
