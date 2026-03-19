@@ -239,6 +239,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Naman230804/leetcode/tree/master/0011-container-with-most-water) |
 | [0073-set-matrix-zeroes](https://github.com/Naman230804/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Naman230804/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Naman230804/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naman230804/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Naman230804/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -298,6 +299,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Naman230804/leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Naman230804/leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Naman230804/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Naman230804/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naman230804/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/Naman230804/leetcode/tree/master/0416-partition-equal-subset-sum) |
