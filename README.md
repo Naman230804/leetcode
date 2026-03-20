@@ -272,6 +272,7 @@
 | [0013-roman-to-integer](https://github.com/Naman230804/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Naman230804/leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Naman230804/leetcode/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naman230804/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1006-vowel-spellchecker](https://github.com/Naman230804/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Naman230804/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Naman230804/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -312,6 +313,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Naman230804/leetcode/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naman230804/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0611-valid-triangle-number](https://github.com/Naman230804/leetcode/tree/master/0611-valid-triangle-number) |
 ## Greedy
 |  |
@@ -390,4 +392,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Naman230804/leetcode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naman230804/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
