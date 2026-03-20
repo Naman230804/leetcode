@@ -238,6 +238,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Naman230804/leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Naman230804/leetcode/tree/master/0014-longest-common-prefix) |
 | [0073-set-matrix-zeroes](https://github.com/Naman230804/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Naman230804/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Naman230804/leetcode/tree/master/0120-triangle) |
@@ -269,6 +270,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Naman230804/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Naman230804/leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Naman230804/leetcode/tree/master/0022-generate-parentheses) |
 | [1006-vowel-spellchecker](https://github.com/Naman230804/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Naman230804/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -384,4 +386,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Naman230804/leetcode/tree/master/0022-generate-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Naman230804/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
