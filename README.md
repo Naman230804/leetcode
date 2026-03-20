@@ -258,6 +258,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Naman230804/leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Naman230804/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Naman230804/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1006-vowel-spellchecker](https://github.com/Naman230804/leetcode/tree/master/1006-vowel-spellchecker) |
@@ -267,6 +268,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Naman230804/leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Naman230804/leetcode/tree/master/0022-generate-parentheses) |
 | [1006-vowel-spellchecker](https://github.com/Naman230804/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Naman230804/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -325,6 +327,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Naman230804/leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Naman230804/leetcode/tree/master/0070-climbing-stairs) |
 | [0830-largest-triangle-area](https://github.com/Naman230804/leetcode/tree/master/0830-largest-triangle-area) |
 | [1642-water-bottles](https://github.com/Naman230804/leetcode/tree/master/1642-water-bottles) |
